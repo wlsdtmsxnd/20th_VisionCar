@@ -4,7 +4,11 @@
 
 内包含NXP RT1064 主控代码部分，一个OpenART mini摄像头代码部分，另一个OpenART mini代码由我的队友撰写，故不放在一起
 
-基于第十九届智能视觉 大连交通大学开源 衍生而来，开源地址 https://github.com/caipingjiang/smart_car
+基于第十九届智能视觉开源的架构上衍生而来 开源地址 https://github.com/caipingjiang/smart_car
+
+其中包含了近五个月的汗水，想说，既然是一点点从开源中学来的，那么就回归开源吧
+
+虽然代码写得一般，但也希望能够给后续想要开始接触智能视觉的车友们一点启发🥰🥰
 
 
 
